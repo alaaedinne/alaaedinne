@@ -42,29 +42,6 @@
 <br />
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/alaaedinne/free-developer-resources/pull/5) in [alaaedinne/free-developer-resources](https://github.com/alaaedinne/free-developer-resources)
-2. 🎉 Merged PR [#4](https://github.com/alaaedinne/free-developer-resources/pull/4) in [alaaedinne/free-developer-resources](https://github.com/alaaedinne/free-developer-resources)
-3. 🎉 Merged PR [#3](https://github.com/alaaedinne/free-developer-resources/pull/3) in [alaaedinne/free-developer-resources](https://github.com/alaaedinne/free-developer-resources)
-4. ❗️ Closed issue [#2](https://github.com/alaaedinne/free-developer-resources/issues/2) in [alaaedinne/free-developer-resources](https://github.com/alaaedinne/free-developer-resources)
-5. 🗣 Commented on [#2](https://github.com/alaaedinne/free-developer-resources/issues/2) in [alaaedinne/free-developer-resources](https://github.com/alaaedinne/free-developer-resources)
-<!--END_SECTION:activity-->
-
-
-
-
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="alaaedinne GitHub Stats" src="https://github-readme-stats.alaaedinne.vercel.app/api?username=alaaedinne&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://mobile.twitter.com/DehganeD
 [instagram]: https://www.instagram.com/s.i.l_v.e.r_/?hl=fr
